@@ -1,0 +1,245 @@
+{
+    "row1":[
+        {
+            "TITLE":"EFFECIENCY",
+            "PARA":"Lorem Ipsum",
+            "TRADE":"1.1921",
+            "bg":"#93c5fd",
+            "text_c":"white",
+            "para_c":"#d1d5db",
+            "TRADE_VAL_c":"#a3a3a3",
+            "TRADE_VAL":"+0.0015 (+0.13%)",
+            "CURRENCY":"0.00 USD",
+            "img":"https://cdn.builder.io/api/v1/image/assets/TEMP/cd652a2cc7385b9d2f01c95be1a91b4ca132304ad3368d89f6bb707eace6d815?",
+            "logo":"https://cdn.builder.io/api/v1/image/assets/TEMP/264879d07144ab2e976b35d4acc9cf5d6e1c333a275d65384466451770c71944?"
+        },
+        {
+            "TITLE":"TIME TO MARKET",
+            "PARA":"Lorem Ipsum",
+            "TRADE":"327,176",
+            "bg":"#0f766e",
+            "text_c":"white",
+            "para_c":"#fcd34d",
+            "TRADE_VAL_c":"#a3a3a3",
+            "TRADE_VAL":"-97,914.00 (-23.03%)",
+            "CURRENCY":"131,040,723,108 JYP",
+            "img":"https://cdn.builder.io/api/v1/image/assets/TEMP/d54b38725efb7480692991b92fd45fe60d45c483e762964d44414e981b6f90c0?",
+            "logo":"https://cdn.builder.io/api/v1/image/assets/TEMP/7918c357e997ce2e6f15ca49e03f85320d05fc9d621e4c5a51395ba8dacc06b0?"
+        },
+        {
+            "TITLE":"TECH DEBT",
+            "PARA":"Lorem Ipsum",
+            "TRADE":"1.1763",
+            "bg":"#ffffff",
+            "text_c":"black",
+            "para_c":"#d1d5db",
+            "TRADE_VAL_c":"#404040",
+            "TRADE_VAL":"+0.0015(+0.13%)",
+            "CURRENCY":"0.00 USD",
+            "img":"https://cdn.builder.io/api/v1/image/assets/TEMP/ce85601d1185513c588dfafa7d070329288e00c7cb675c50e6498c1a2711e9d0?",
+            "logo":"https://cdn.builder.io/api/v1/image/assets/TEMP/7918c357e997ce2e6f15ca49e03f85320d05fc9d621e4c5a51395ba8dacc06b0?"
+        },
+        {
+            "TITLE":"PREDICT ABILITY",
+            "PARA":"Lorem Ipsum",
+            "TRADE":"0.00313010",
+            "bg":"#ef4444",
+            "text_c":"white",
+            "para_c":"#d1d5db",
+            "TRADE_VAL_c":"#a3a3a3",
+            "TRADE_VAL":"-0.00050430 (-13.88%)",
+            "CURRENCY":"0.00 BTC",
+            "img":"https://cdn.builder.io/api/v1/image/assets/TEMP/313eb15efeaf7e95529eff4063f73236880c7f5a655be8d3bde3f641f9bfe62a?",
+            "logo":"https://cdn.builder.io/api/v1/image/assets/TEMP/264879d07144ab2e976b35d4acc9cf5d6e1c333a275d65384466451770c71944?"
+        }
+        
+    ]
+    ,
+    "row2":[
+        {
+            "TITLE":"On Time",
+            "PARA1":"Completed Iterations",
+            "PARA1_NO":"7",
+            "PARA2":"Total Iterations",
+            "PARA2_NO":"9",
+            "bg":"#84cc16",
+            "PARA3":"% Iterations Done",
+            "PARA3_NO":"77.8%",
+            "CSS_DOT":"bg-green-500 rounded-full h-[15px] min-h-[15px] w-[15px]"
+        }
+        ,
+        {
+            "TITLE":"On Scope",
+            "PARA1":"Stsy Points Done",
+            "PARA1_NO":"3200",
+            "PARA2":"Total Story  Points",
+            "PARA2_NO":"4230",
+            "bg":"#84cc16",
+            "PARA3":"% Stories Done",
+            "PARA3_NO":"70.9%",
+            "CSS_DOT":"bg-green-500 rounded-full h-[15px] min-h-[15px] w-[15px]"
+        }
+        ,{
+            "TITLE":"On Velocity",
+            "PARA1":"Average Velocity",
+            "PARA1_NO":"428.6",
+            "PARA2":"Required Velocity",
+            "PARA2_NO":"615.0",
+            "bg":"#ef4444",
+            "PARA3":"",
+            "PARA3_NO":"",
+            "CSS_DOT":""
+        }
+    ],
+    "TABLE":{
+        "HED":[
+            {
+                "HED1":"Page",
+                "hed1_img1":"",
+                "hed2_img2":"",
+                "no":"",
+                "css":"none"
+            }
+            ,{
+                "HED1":"Pageviews",
+                "no":"356,928",
+                "hed_img1":"https://cdn.builder.io/api/v1/image/assets/TEMP/25e21b8071005d14af71623299c9a1b59a756a30dda64151b728b34084fe6cc5?",
+                "hed_img2":"https://cdn.builder.io/api/v1/image/assets/TEMP/858c2b02b9236189145a5e3f6dec5fee82785bd2a48d889cb6ce1e9e8f7457b1?",
+                 
+                "css":""
+            },
+            {
+                "HED1":"Unique pageviews",
+                "no":"275,588",
+                "hed_img1":"https://cdn.builder.io/api/v1/image/assets/TEMP/0edd0bbe0c99bd31075ed8ee66dcb83b43ed1f85a877584b2306abfc0d541e7e?",
+                "hed_img2":"https://cdn.builder.io/api/v1/image/assets/TEMP/9c2ae3c5036639e9305f85af88e0bbacb993aba0e99d73ea57a6d0fe62c88387?",
+
+                "css":""
+            },
+            {
+                "HED1":"Avg.time on page",
+                "no":"00.03.51",
+                "hed_img1":"https://cdn.builder.io/api/v1/image/assets/TEMP/0edd0bbe0c99bd31075ed8ee66dcb83b43ed1f85a877584b2306abfc0d541e7e?",
+                "hed_img2":"https://cdn.builder.io/api/v1/image/assets/TEMP/9c2ae3c5036639e9305f85af88e0bbacb993aba0e99d73ea57a6d0fe62c88387?",
+                "css":""
+            },
+            {
+                "HED1":"Extrances",
+                "no":"315,643",
+                "hed_img1":"https://cdn.builder.io/api/v1/image/assets/TEMP/0af107e904c1f372fecbbd726be8f55c4eb7b96a479773eeea9e7ded4eda0b21?",
+                "hed_img2":"https://cdn.builder.io/api/v1/image/assets/TEMP/b2018d7413fe8c09a8802ebc97964235289e23fa405867f73f238e40d810cf1f?",
+                "css":""
+            },
+            {
+                "HED1":"%Exit",
+                "no":"39.84%",
+                "hed_img1":"https://cdn.builder.io/api/v1/image/assets/TEMP/3856251580c7cbdcef513a3c135ce38b191b6f599c37a2d2320c11487dceea44?",
+                "hed_img2":"https://cdn.builder.io/api/v1/image/assets/TEMP/c700386188246986d6e931b5c5157a73dbeaaa96427c9d9672d1f1a3c92bed3e?",
+                "css":""
+            },
+            {
+                "HED1":"Page value",
+                "no":"$19,983",
+                "hed_img1":"https://cdn.builder.io/api/v1/image/assets/TEMP/6734652d3eba9b75938bd765f3fbfb21e800de7ef8d40f9bd53371e46c097974?",
+                "hed_img2":"https://cdn.builder.io/api/v1/image/assets/TEMP/c8625bcac0bd0e6c719d4f76935cb7cd321245722dd6bc1da0d35df3d5d827d0?",
+                "css":""
+            }
+        ],
+        "ROW1":[
+            {
+              "para1":"/Defect Arrival Rate",
+              "col2_no1":"872,337",
+              "col2_no2":"(15.82%)",
+              "col3_no1":"574,332",
+              "col3_no2":"(15.33%)",
+              "col4_no1":"00.05.43",
+              "col4_no2":"",
+              "col5_no1":"802,873",
+              "col5_no2":"(16.75%)",
+              "col6_no1":"25.96%",
+              "col6_no2":"",
+              "col7_no1":"1,093",
+              "col7_no2":"(5.11%)"
+            },
+            {
+                "para1":"/Fixed Rate",
+                "col2_no1":"803,792",
+              "col2_no2":"(14.39%)",
+              "col3_no1":"456,792",
+              "col3_no2":"(13.93%)",
+              "col4_no1":"00.05.24",
+              "col4_no2":"",
+              "col5_no1":"793,982",
+              "col5_no2":"(15.64%)",
+              "col6_no1":"76.13%",
+              "col6_no2":"",
+              "col7_no1":"6,792",
+              "col7_no2":"(36.16%)"
+            },
+            {
+                "para1":"/cycle time",
+                 "col2_no1":"740,702",
+                 "col2_no2":"(13.46%)",
+                 "col3_no1":"405,860",
+              "col3_no2":"(13.25%)",
+              "col4_no1":"00.04.36",
+              "col4_no2":"",
+              "col5_no1":"684,873",
+              "col5_no2":"(14.33%)",
+              "col6_no1":"41.54%",
+              "col6_no2":"",
+              "col7_no1":"702",
+              "col7_no2":"(3.47%)"
+
+            },
+            {
+              "para1":"lead time",
+              "col2_no1":"676,569",
+              "col2_no2":"(10.29%)",
+              "col3_no1":"340,765",
+              "col3_no2":"(11.70%)",
+              "col4_no1":"00.04.12",
+              "col4_no2":"",
+              "col5_no1":"638,982",
+              "col5_no2":"(13.02%)",
+              "col6_no1":"46.42%",
+              "col6_no2":"",
+              "col7_no1":"2,659",
+              "col7_no2":"(11.64%)"
+            },
+            {
+                "para1":"/new features",
+                "col2_no1":"508,837",
+              "col2_no2":"(7.74%)",
+              "col3_no1":"317,543",
+              "col3_no2":"(10.66%)",
+              "col4_no1":"00.04.11",
+              "col4_no2":"",
+              "col5_no1":"555,982",
+              "col5_no2":"(10.44%)",
+              "col6_no1":"27.40%",
+              "col6_no2":"",
+              "col7_no1":"4,508",
+              "col7_no2":"(23.43%)"
+            },
+            {
+                "para1":"/ready feature",
+                "col2_no1":"495,938",
+              "col2_no2":"(7.38%)",
+              "col3_no1":"310,554",
+              "col3_no2":"(10.58%)",
+              "col4_no1":"00.02.56",
+              "col4_no2":"",
+              "col5_no1":"297,303",
+              "col5_no2":"(6.07%)",
+              "col6_no1":"28.89%",
+              "col6_no2":"",
+              "col7_no1":"495",
+              "col7_no2":"(7.38%)"
+            }
+        ]    
+    }
+       
+    
+
+}
