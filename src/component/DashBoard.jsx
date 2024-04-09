@@ -31,14 +31,14 @@ const DashBoard = () => {
   //here we are firstly create data using map method and store in variabel
   let list = data2.map((item, index) => {
 
-    const { TITLE, bg, img, PARA, TRADE, TRADE_VAL, CURRENCY, TRADE_VAL_c, text_c, para_c } = item
+    const { TITLE, bg, img, logo,PARA, TRADE, TRADE_VAL, CURRENCY, TRADE_VAL_c, text_c, para_c } = item
     return (
       <>
         <div className={`w-[300px] h-44 mt-4 rounded-xl`} style={{ backgroundImage: `url(${item.img})`, backgroundSize: "cover", backgroundColor: bg }}>
           <div className='ml-4'>
             <p className='text-xl' style={{ color: text_c }}>{TITLE}</p>
             <p className='' style={{ color: para_c }}>{PARA}</p>
-            <p className='text-2xl' style={{ color: text_c }}>{TRADE}</p>
+            <div className='flex'><p className='text-2xl' style={{ color: text_c }}>{TRADE}</p><img src={logo} alt="" /></div>
             <p className='' style={{ color: TRADE_VAL_c }}>{TRADE_VAL}</p>
             <p style={{ color: para_c }}>{CURRENCY}</p>
           </div>
@@ -71,7 +71,6 @@ const DashBoard = () => {
       </>
     )
   })
- 
   return (
     <>
       <div>
